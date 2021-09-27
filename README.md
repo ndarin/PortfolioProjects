@@ -1,7 +1,7 @@
-# sql-data-exploration
-Data Analysis project
+# PortfolioProjects
+Data Analysis projects
 
 Exploring Coronavirus dataset from: 
 https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1Q1azYwNzJqNTJuT1RTdmdrbmd4NWhNUmQ0Z3xBQ3Jtc0tucVJVc0ZzVnZrNERIRnBDWUpZdkNmSWFncFlGcUJBdGRLYzkxUFRsTnhUU1ltSnNCODlCUWh6b3NtNTZoeWdJTmJod0hzYi1BS3dGcHdJQ2lISVlWN0ZRaDJZaThmeEE1bGNrRDh2UU1JTld4c2Q5NA&q=https%3A%2F%2Fourworldindata.org%2Fcovid-deaths
 
-Main SQL script: covid_data_queries
+Main SQL script: COVID Portfolio Project script
