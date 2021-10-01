@@ -1,4 +1,4 @@
-# PortfolioProjects
+# SQL-Portfolio-Projects
 Data Analysis projects
 
 Exploring Coronavirus dataset from: 
